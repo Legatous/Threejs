@@ -1,2 +1,2 @@
 # Threejs
-learning threejs
+3js uni project
